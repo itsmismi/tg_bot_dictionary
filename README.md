@@ -11,11 +11,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/static/bot_menu.png)
+![image](https://raw.githubusercontent.com/itsmismi/tg_bot_dictionary/refs/heads/main/start.png)
 
-После выбора карты Visa:
+После введения слова:
 
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/static/visa_card.png)
+![image](https://raw.githubusercontent.com/itsmismi/tg_bot_dictionary/refs/heads/main/result.png)
 
 
 ## 💻 Технологии
