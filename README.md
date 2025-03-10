@@ -4,9 +4,6 @@
 >
 > 🟢 Поддерживается (активный) 
 
-## Цели и Задачи
-Бот словарик на 1000+ айти определений
-
 ## 🖼 Скриншоты
 
 Стартовое меню:
@@ -45,13 +42,9 @@ source venv/bin/activate
 python3 -m pip install pyTelegramBotAPI
 ```
 
-``` markdown
-python3 -m pip install faker
-```
-
 5. Запускаем
 ``` markdown
-python3 card_bot.py
+python3 tg_bot_dictionary
 ```
 
 ## Автор
